@@ -1,6 +1,6 @@
 # AfriStories
 AfriStories is a platform that offers an immersive Virtual reality experience of stories that have graced the African past <br />
-and continuously shape its present and possibly its future. In so doing, we hope to imbue a generation of Africans to tell their own stories unapologetically<br /> authentic and preserve their cultures amongst generations to come, all while promoting Pan-Africanism!
+and continuously shape its present and possibly its future. In so doing, we hope to imbue a generation of Africans to tell their own stories unapologetically authentic and preserve their cultures amongst generations to come, all while promoting Pan-Africanism!
 
 
 
