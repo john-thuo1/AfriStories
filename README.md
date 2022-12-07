@@ -13,6 +13,6 @@ Link to the presentation slides : https://docs.google.com/presentation/d/1YYUndv
 To test the functionality of the website,
 1. Navigate to Angola on the Homepage
 2. Select Angola and choose History category.
-3. Connect to the VR Experience video url linked in History Category.
+3. Connect your headset to the VR Experience video url linked in History Category i.e https://cdn.instavr.co/html/pizjVNsCgx5tmvJzNH82_app.html
 4. Enjoy the experience.
 
